@@ -1,0 +1,15 @@
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IRepository\bin\Debug\net8.0\RMQ.IRepository.deps.json
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IRepository\bin\Debug\net8.0\RMQ.IRepository.dll
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IRepository\bin\Debug\net8.0\RMQ.IRepository.pdb
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IRepository\obj\Debug\net8.0\RMQ.IRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IRepository\obj\Debug\net8.0\RMQ.IRepository.AssemblyInfoInputs.cache
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IRepository\obj\Debug\net8.0\RMQ.IRepository.AssemblyInfo.cs
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IRepository\obj\Debug\net8.0\RMQ.IRepository.csproj.CoreCompileInputs.cache
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IRepository\obj\Debug\net8.0\RMQ.IRepository.dll
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IRepository\obj\Debug\net8.0\refint\RMQ.IRepository.dll
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IRepository\obj\Debug\net8.0\RMQ.IRepository.pdb
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IRepository\obj\Debug\net8.0\ref\RMQ.IRepository.dll
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IRepository\bin\Debug\net8.0\RMQ.Model.dll
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IRepository\bin\Debug\net8.0\RMQ.Model.pdb
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IRepository\obj\Debug\net8.0\RMQ.IRepository.csproj.AssemblyReference.cache
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IRepository\obj\Debug\net8.0\RMQ.IRep.DA431674.Up2Date

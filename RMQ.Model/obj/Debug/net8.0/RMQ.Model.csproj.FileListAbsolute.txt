@@ -1,0 +1,11 @@
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.Model\bin\Debug\net8.0\RMQ.Model.deps.json
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.Model\bin\Debug\net8.0\RMQ.Model.dll
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.Model\bin\Debug\net8.0\RMQ.Model.pdb
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.Model\obj\Debug\net8.0\RMQ.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.Model\obj\Debug\net8.0\RMQ.Model.AssemblyInfoInputs.cache
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.Model\obj\Debug\net8.0\RMQ.Model.AssemblyInfo.cs
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.Model\obj\Debug\net8.0\RMQ.Model.csproj.CoreCompileInputs.cache
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.Model\obj\Debug\net8.0\RMQ.Model.dll
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.Model\obj\Debug\net8.0\refint\RMQ.Model.dll
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.Model\obj\Debug\net8.0\RMQ.Model.pdb
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.Model\obj\Debug\net8.0\ref\RMQ.Model.dll

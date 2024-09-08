@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RMQ.Services/1.0.0": {
+        "dependencies": {
+          "RMQ.IRepository": "1.0.0",
+          "RMQ.IServices": "1.0.0"
+        },
+        "runtime": {
+          "RMQ.Services.dll": {}
+        }
+      },
+      "RMQ.IRepository/1.0.0": {
+        "dependencies": {
+          "RMQ.Model": "1.0.0"
+        },
+        "runtime": {
+          "RMQ.IRepository.dll": {}
+        }
+      },
+      "RMQ.IServices/1.0.0": {
+        "dependencies": {
+          "RMQ.Model": "1.0.0"
+        },
+        "runtime": {
+          "RMQ.IServices.dll": {}
+        }
+      },
+      "RMQ.Model/1.0.0": {
+        "runtime": {
+          "RMQ.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RMQ.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RMQ.IRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RMQ.IServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RMQ.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

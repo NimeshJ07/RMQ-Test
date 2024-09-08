@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimesh\\source\\repos\\RabbitMQTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{528DAE48-04F8-43E1-B3B2-2FA98177B566}|RMQ.RabbitMQ\\RMQ.RabbitMQ.csproj|c:\\users\\nimesh\\source\\repos\\rabbitmqtest\\rmq.rabbitmq\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528DAE48-04F8-43E1-B3B2-2FA98177B566}|RMQ.RabbitMQ\\RMQ.RabbitMQ.csproj|solutionrelative:rmq.rabbitmq\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528DAE48-04F8-43E1-B3B2-2FA98177B566}|RMQ.RabbitMQ\\RMQ.RabbitMQ.csproj|c:\\users\\nimesh\\source\\repos\\rabbitmqtest\\rmq.rabbitmq\\rmq.rabbitmq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{528DAE48-04F8-43E1-B3B2-2FA98177B566}|RMQ.RabbitMQ\\RMQ.RabbitMQ.csproj|solutionrelative:rmq.rabbitmq\\rmq.rabbitmq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B437E25-7F21-4EC8-AED1-9103C6D5B060}|RMQ.API\\RMQ.API.csproj|c:\\users\\nimesh\\source\\repos\\rabbitmqtest\\rmq.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B437E25-7F21-4EC8-AED1-9103C6D5B060}|RMQ.API\\RMQ.API.csproj|solutionrelative:rmq.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528DAE48-04F8-43E1-B3B2-2FA98177B566}|RMQ.RabbitMQ\\RMQ.RabbitMQ.csproj|c:\\users\\nimesh\\source\\repos\\rabbitmqtest\\rmq.rabbitmq\\rabbitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528DAE48-04F8-43E1-B3B2-2FA98177B566}|RMQ.RabbitMQ\\RMQ.RabbitMQ.csproj|solutionrelative:rmq.rabbitmq\\rabbitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B437E25-7F21-4EC8-AED1-9103C6D5B060}|RMQ.API\\RMQ.API.csproj|c:\\users\\nimesh\\source\\repos\\rabbitmqtest\\rmq.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B437E25-7F21-4EC8-AED1-9103C6D5B060}|RMQ.API\\RMQ.API.csproj|solutionrelative:rmq.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528DAE48-04F8-43E1-B3B2-2FA98177B566}|RMQ.RabbitMQ\\RMQ.RabbitMQ.csproj|c:\\users\\nimesh\\source\\repos\\rabbitmqtest\\rmq.rabbitmq\\irabitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528DAE48-04F8-43E1-B3B2-2FA98177B566}|RMQ.RabbitMQ\\RMQ.RabbitMQ.csproj|solutionrelative:rmq.rabbitmq\\irabitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B437E25-7F21-4EC8-AED1-9103C6D5B060}|RMQ.API\\RMQ.API.csproj|c:\\users\\nimesh\\source\\repos\\rabbitmqtest\\rmq.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B437E25-7F21-4EC8-AED1-9103C6D5B060}|RMQ.API\\RMQ.API.csproj|solutionrelative:rmq.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitMQConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Nimesh\\source\\repos\\RabbitMQTest\\RMQ.RabbitMQ\\RabbitMQConsumer.cs",
+              "RelativeDocumentMoniker": "RMQ.RabbitMQ\\RabbitMQConsumer.cs",
+              "ToolTip": "C:\\Users\\Nimesh\\source\\repos\\RabbitMQTest\\RMQ.RabbitMQ\\RabbitMQConsumer.cs",
+              "RelativeToolTip": "RMQ.RabbitMQ\\RabbitMQConsumer.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T07:00:35.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nimesh\\source\\repos\\RabbitMQTest\\RMQ.API\\appsettings.json",
+              "RelativeDocumentMoniker": "RMQ.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nimesh\\source\\repos\\RabbitMQTest\\RMQ.API\\appsettings.json",
+              "RelativeToolTip": "RMQ.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T06:47:32.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimesh\\source\\repos\\RabbitMQTest\\RMQ.API\\Program.cs",
+              "RelativeDocumentMoniker": "RMQ.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimesh\\source\\repos\\RabbitMQTest\\RMQ.API\\Program.cs",
+              "RelativeToolTip": "RMQ.API\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T06:12:56.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimesh\\source\\repos\\RabbitMQTest\\RMQ.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "RMQ.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Nimesh\\source\\repos\\RabbitMQTest\\RMQ.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "RMQ.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T06:10:42.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RMQ.RabbitMQ.csproj",
+              "DocumentMoniker": "C:\\Users\\Nimesh\\source\\repos\\RabbitMQTest\\RMQ.RabbitMQ\\RMQ.RabbitMQ.csproj",
+              "RelativeDocumentMoniker": "RMQ.RabbitMQ\\RMQ.RabbitMQ.csproj",
+              "ToolTip": "C:\\Users\\Nimesh\\source\\repos\\RabbitMQTest\\RMQ.RabbitMQ\\RMQ.RabbitMQ.csproj",
+              "RelativeToolTip": "RMQ.RabbitMQ\\RMQ.RabbitMQ.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-08T06:07:33.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RabbitMQProducer.cs",
+              "DocumentMoniker": "C:\\Users\\Nimesh\\source\\repos\\RabbitMQTest\\RMQ.RabbitMQ\\RabbitMQProducer.cs",
+              "RelativeDocumentMoniker": "RMQ.RabbitMQ\\RabbitMQProducer.cs",
+              "ToolTip": "C:\\Users\\Nimesh\\source\\repos\\RabbitMQTest\\RMQ.RabbitMQ\\RabbitMQProducer.cs",
+              "RelativeToolTip": "RMQ.RabbitMQ\\RabbitMQProducer.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T06:08:08.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRabitMQProducer.cs",
+              "DocumentMoniker": "C:\\Users\\Nimesh\\source\\repos\\RabbitMQTest\\RMQ.RabbitMQ\\IRabitMQProducer.cs",
+              "RelativeDocumentMoniker": "RMQ.RabbitMQ\\IRabitMQProducer.cs",
+              "ToolTip": "C:\\Users\\Nimesh\\source\\repos\\RabbitMQTest\\RMQ.RabbitMQ\\IRabitMQProducer.cs",
+              "RelativeToolTip": "RMQ.RabbitMQ\\IRabitMQProducer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T06:07:26.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.RabbitMQ\bin\Debug\net8.0\RMQ.RabbitMQ.deps.json
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.RabbitMQ\bin\Debug\net8.0\RMQ.RabbitMQ.dll
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.RabbitMQ\bin\Debug\net8.0\RMQ.RabbitMQ.pdb
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.RabbitMQ\obj\Debug\net8.0\RMQ.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.RabbitMQ\obj\Debug\net8.0\RMQ.RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.RabbitMQ\obj\Debug\net8.0\RMQ.RabbitMQ.AssemblyInfo.cs
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.RabbitMQ\obj\Debug\net8.0\RMQ.RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.RabbitMQ\obj\Debug\net8.0\RMQ.RabbitMQ.dll
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.RabbitMQ\obj\Debug\net8.0\refint\RMQ.RabbitMQ.dll
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.RabbitMQ\obj\Debug\net8.0\RMQ.RabbitMQ.pdb
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.RabbitMQ\obj\Debug\net8.0\ref\RMQ.RabbitMQ.dll
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.RabbitMQ\obj\Debug\net8.0\RMQ.RabbitMQ.csproj.AssemblyReference.cache

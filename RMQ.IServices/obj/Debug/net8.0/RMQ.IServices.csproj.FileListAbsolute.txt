@@ -1,0 +1,15 @@
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IServices\bin\Debug\net8.0\RMQ.IServices.deps.json
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IServices\bin\Debug\net8.0\RMQ.IServices.dll
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IServices\bin\Debug\net8.0\RMQ.IServices.pdb
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IServices\obj\Debug\net8.0\RMQ.IServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IServices\obj\Debug\net8.0\RMQ.IServices.AssemblyInfoInputs.cache
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IServices\obj\Debug\net8.0\RMQ.IServices.AssemblyInfo.cs
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IServices\obj\Debug\net8.0\RMQ.IServices.csproj.CoreCompileInputs.cache
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IServices\obj\Debug\net8.0\RMQ.IServices.dll
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IServices\obj\Debug\net8.0\refint\RMQ.IServices.dll
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IServices\obj\Debug\net8.0\RMQ.IServices.pdb
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IServices\obj\Debug\net8.0\ref\RMQ.IServices.dll
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IServices\bin\Debug\net8.0\RMQ.Model.dll
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IServices\bin\Debug\net8.0\RMQ.Model.pdb
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IServices\obj\Debug\net8.0\RMQ.IServices.csproj.AssemblyReference.cache
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.IServices\obj\Debug\net8.0\RMQ.ISer.408D1E15.Up2Date

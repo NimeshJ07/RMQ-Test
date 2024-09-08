@@ -1,0 +1,11 @@
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.DTO\bin\Debug\net8.0\RMQ.DTO.deps.json
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.DTO\bin\Debug\net8.0\RMQ.DTO.dll
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.DTO\bin\Debug\net8.0\RMQ.DTO.pdb
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.DTO\obj\Debug\net8.0\RMQ.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.DTO\obj\Debug\net8.0\RMQ.DTO.AssemblyInfoInputs.cache
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.DTO\obj\Debug\net8.0\RMQ.DTO.AssemblyInfo.cs
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.DTO\obj\Debug\net8.0\RMQ.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.DTO\obj\Debug\net8.0\RMQ.DTO.dll
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.DTO\obj\Debug\net8.0\refint\RMQ.DTO.dll
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.DTO\obj\Debug\net8.0\RMQ.DTO.pdb
+C:\Users\Nimesh\source\repos\RabbitMQTest\RMQ.DTO\obj\Debug\net8.0\ref\RMQ.DTO.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MGkQvxcyh+40GIP/YzHtCaEA2dLTcmUXTgDsuyxsqAY=",
+  "Source": "RMQ.API",
+  "BasePath": "_content/RMQ.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
